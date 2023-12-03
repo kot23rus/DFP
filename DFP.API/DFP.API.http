@@ -1,0 +1,6 @@
+@DFP.API_HostAddress = http://localhost:5009
+
+GET {{DFP.API_HostAddress}}/File/list/
+Accept: application/json
+
+###
